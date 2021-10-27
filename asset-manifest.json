@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/VolodymyrVoronov/memory-game-v-2.0/static/js/main.353f378f.chunk.js",
-    "main.js.map": "/VolodymyrVoronov/memory-game-v-2.0/static/js/main.353f378f.chunk.js.map",
-    "runtime-main.js": "/VolodymyrVoronov/memory-game-v-2.0/static/js/runtime-main.22a3b968.js",
-    "runtime-main.js.map": "/VolodymyrVoronov/memory-game-v-2.0/static/js/runtime-main.22a3b968.js.map",
-    "static/js/2.7e04eb95.chunk.js": "/VolodymyrVoronov/memory-game-v-2.0/static/js/2.7e04eb95.chunk.js",
-    "static/js/2.7e04eb95.chunk.js.map": "/VolodymyrVoronov/memory-game-v-2.0/static/js/2.7e04eb95.chunk.js.map",
-    "index.html": "/VolodymyrVoronov/memory-game-v-2.0/index.html",
-    "static/js/2.7e04eb95.chunk.js.LICENSE.txt": "/VolodymyrVoronov/memory-game-v-2.0/static/js/2.7e04eb95.chunk.js.LICENSE.txt"
+    "main.js": "/memory-game-v-2.0/static/js/main.353f378f.chunk.js",
+    "main.js.map": "/memory-game-v-2.0/static/js/main.353f378f.chunk.js.map",
+    "runtime-main.js": "/memory-game-v-2.0/static/js/runtime-main.551d4745.js",
+    "runtime-main.js.map": "/memory-game-v-2.0/static/js/runtime-main.551d4745.js.map",
+    "static/js/2.9fe7724c.chunk.js": "/memory-game-v-2.0/static/js/2.9fe7724c.chunk.js",
+    "static/js/2.9fe7724c.chunk.js.map": "/memory-game-v-2.0/static/js/2.9fe7724c.chunk.js.map",
+    "index.html": "/memory-game-v-2.0/index.html",
+    "static/js/2.9fe7724c.chunk.js.LICENSE.txt": "/memory-game-v-2.0/static/js/2.9fe7724c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.22a3b968.js",
-    "static/js/2.7e04eb95.chunk.js",
+    "static/js/runtime-main.551d4745.js",
+    "static/js/2.9fe7724c.chunk.js",
     "static/js/main.353f378f.chunk.js"
   ]
 }
