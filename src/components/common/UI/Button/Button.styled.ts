@@ -8,6 +8,7 @@ const ButtonContainer = styled.button<ButtonContainerProps>`
   display: flex;
 
   margin-top: ${(props) => (props.mt ? `${props.mt}px` : "100px")};
+  margin-bottom: 50px;
 
   padding: 15px 50px;
 
